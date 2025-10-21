@@ -3,18 +3,20 @@
 <h3 align="center">Hi, I'm a red blue Protogen known as "Guest" or "Vortex", i am interested in technologies and electronics and have some knowledge about it! </h3>
 
 ---
+<h1 align="center">THINGS I USE</h1>
+<h3 align="center">SOFTWARE</h3>
 
-- 👨‍💻 I'm a small [Roblox Developers](https://www.roblox.com/groups/8472022/Crazy-Sciences-Inc#!/about) that make stuff on Roblox when I'm bored!
-
-- 🔍 I’m looking forward in to learning new things
-
-- 📌 I’m based in Thailand, my timezone are GMT+7 and was born on October 23.
-  
-- 🐾 I'm also a furry!
-
-
----
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,arduino,blender,bootstrap,discord,git,github,gmail,linux,neovim,robloxstudio,unity,vscode,windows," />
+  </a>
+</p>
+<h3 align="center">LANGUAGE</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,lua,cpp" />
+  </a>
+</p>
 
 <h1 align="center">MY SOCIAL</h1>
 
